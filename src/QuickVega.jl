@@ -2,6 +2,8 @@ module QuickVega
 
 using VegaLite
 using Contour
+using Clustering
+using StatsBase
 using KernelDensity
 using DataStructures
 using DataFrames
